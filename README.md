@@ -2,7 +2,7 @@
 
 Last updated 15 January 2019
 
-We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the WarwickHTECH. 
+We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the WarwickTECH. 
 
 More than just a charity, we are a community. Being part of this community means: 
 
