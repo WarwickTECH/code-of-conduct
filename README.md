@@ -1,6 +1,6 @@
 # WarwickTECH Code of Conduct
 
-Last updated 15 January 2019
+Last updated 23 January 2019
 
 We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the WarwickTECH. 
 
@@ -33,7 +33,7 @@ We expect people to follow these rules at all event venues, at social events, an
 
 ## Contacts
 * Alex Bucknall, Trustee. alex@warwick.tech
-* Elizabeth Lam, Co-President. elizabeth@warwick.tech
+* Elizabeth Lam, President. elizabeth@warwick.tech
 
 WarwickTECH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact WarwickTECH by e-mail at info@warwick.tech.
 
